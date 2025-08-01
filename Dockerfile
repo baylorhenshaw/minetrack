@@ -1,4 +1,4 @@
-FROM node:18-slim
+FROM node:16
 
 ARG TINI_VER="v0.19.0"
 
